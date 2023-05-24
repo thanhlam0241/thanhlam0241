@@ -64,13 +64,16 @@
   
 ## 📄📜 Stats
 
-
+<!-- [![Megaheart's GitHub stats](https://github-readme-stats.vercel.app/api?username=megaheart&theme=noctis_minimus&show_icons=true&count_private=true&hide=issues)](https://github.com/megaheart)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megaheart&layout=compact&theme=noctis_minimus&langs_count=10&hide=html,css,scss,makefile,shell,vim%20snippet)](https://github.com/megaheart) -->
+     
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thanhlam0241&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thanhlam0241&theme=noctis_minimus&show_icons=true&count_private=true&hide=issues" />
  </br>
+  
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlam0241"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlam0241&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlam0241&layout=compact&theme=noctis_minimus&langs_count=10&hide=html,css,scss,makefile,shell,vim%20snippet" />
 </p>
      
   </td>
@@ -101,18 +104,3 @@
 
 <br />
 
-<details>
-
-  <summary><h2> 📌🏴  Coding Profiles </h2></summary>
-
-</br>
-</br>
-
-<a href="#" ><img style="height:25px; margin:10%; position: absolute;float: left;" src = "https://img.shields.io/static/v1?message=Code%20Chef&logo=CodeChef&labelColor=brown&color=brown&logoColor=white&label=%20&style=plastic"/></a> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Leet%20Code&logo=LeetCode&labelColor=05122A&color=05122A&logoColor=FFA116&label=%20&style=plastic"/>&nbsp;&nbsp;&nbsp;  &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&labelColor=black&color=black&logoColor=00EA64&label=%20&style=flat"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:26px" src = "https://img.shields.io/static/v1?message=Codeforces&logo=Codeforces&labelColor=red&color=red&logoColor=yellow&label=%20&style=plastic"/> &nbsp;&nbsp;&nbsp; &nbsp;<img style="height:25px" src = "https://img.shields.io/static/v1?message=Geeks%20For%20Geeks&logo=GeeksforGeeks&labelColor=white&color=lightgrey&logoColor=2F8D46&label=%20&style=plastic"/>  &nbsp;
-<a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-</details>
-
-
-</br>
