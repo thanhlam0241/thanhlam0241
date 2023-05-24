@@ -11,8 +11,6 @@
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
-
 - 💡 I’m interested in Nodejs, ASP.NET Core and Reactjs.
 - 📖 I’m currently learning Data Science at Ha Noi University of Science and Technology.
 <!-- - ❄️ I’m looking to collaborate on ...Open Source Projects.
@@ -101,8 +99,6 @@
 -->
 
 
-<!--
-
 <br />
 
 <details>
@@ -118,11 +114,9 @@
 
 </details>
 
--->
 
 </br>
 
-<!--
 
 <details>
 
@@ -145,11 +139,7 @@
   
 </details>
 
--->
 
-
-
-<!-- 
 # Featured Repositories 🚀
 
 
@@ -164,7 +154,7 @@
 <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=HomePal&theme=vue"/>
 
 <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=kaustav202&repo=Directory-Tree-Generator&theme=apprentice"/>
- -->
+
 
 <!--
 
