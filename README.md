@@ -10,11 +10,11 @@
 ## ⚡🙋‍♂️ About Me
 
 </br>
-- 👋 Hi, I’m @thanhlam0241
+-👋 Hi, I’m @thanhlam0241
 
-- 💡 I’m interested in Nodejs, ASP.NET Core and Reactjs.
+-💡 I’m interested in Nodejs, ASP.NET Core and Reactjs.
 
-- 📖 I’m currently learning Data Science at Ha Noi University of Science and Technology.
+-📖 I’m currently learning Data Science at Ha Noi University of Science and Technology.
 <!-- - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...gkaustav57@gmail.com. -->
 
