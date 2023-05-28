@@ -76,7 +76,7 @@
   
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhlam0241"/>
  </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlam0241&layout=compact&theme=noctis_minimus&langs_count=10" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhlam0241&layout=compact&theme=noctis_minimus&langs_count=9" />
 </p>
      
   </td>
