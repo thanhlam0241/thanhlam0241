@@ -15,7 +15,7 @@
 
 - 💡 I’m interested in Web developer, Data Engineer, Devops, ...
 
-- 📖 I’m currently learning Data Science at Ha Noi University of Science and Technology.
+- 📖 I’m currently learning Computer Science at Ha Noi University of Science and Technology.
 <!-- - ❄️ I’m looking to collaborate on ...Open Source Projects.
 - 📫 How to reach me ...gkaustav57@gmail.com. -->
 
